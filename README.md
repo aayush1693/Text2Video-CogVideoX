@@ -65,7 +65,7 @@ The model iteratively generates video frames, ensuring that each frame is cohere
 
 ## Acknowledgments
 
-This project utilizes the CogVideo model developed by the [THUDM](https://github.com/THUDM/CogVideo) team. We extend our sincere thanks to the inventors of CogVideo for their groundbreaking work in the field of video generation.
+This project utilizes the CogVideo model developed by the [THUDM](https://github.com/THUDM/CogVideo) team. Check out their [Paper](https://arxiv.org/pdf/2205.15868). We extend our sincere thanks to the inventors of CogVideo for their groundbreaking work in the field of video generation.
 
 ## License
 
